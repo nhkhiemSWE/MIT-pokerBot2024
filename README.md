@@ -14,3 +14,10 @@ The command to run the engine is `python3 engine.py`. The engine is configured v
 
 ## Linting
 Use pylint.
+
+## Notes
+Current version on the server is in bot_version_1
+Current developing version in in bot_version_3
+Bot_version_1 is currently the best
+
+
