@@ -16,8 +16,13 @@ The command to run the engine is `python3 engine.py`. The engine is configured v
 Use pylint.
 
 ## Notes
-Current version on the server is in bot_version_1
-Current developing version in in bot_version_3
-Bot_version_1 is currently the best
+- The current version on the server is in bot_version_1
+- The current developing version in bot_version_3
+- Bot_version_1 is currently the best
+
+## Ideas to develop:
+- A script to generate data from the game logs after playing on the server.
+- A strategy that considers the action of the opponent as currently, bot_version_1 does not play according to the opponent's action.
+- Functions to predict opponent's cards. For example, based on the dealt card, calculate the change for the opponent to have a better hand. 
 
 
