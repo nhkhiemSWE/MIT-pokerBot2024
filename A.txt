@@ -1,0 +1,4363 @@
+round:  1  -  30.0 s remaining
+
+0
+round:  2  -  30.0 s remaining
+
+0
+round:  3  -  29.999 s remaining
+
+0
+round:  4  -  29.999 s remaining
+
+0
+round:  5  -  29.998 s remaining
+
+0
+round:  6  -  29.998 s remaining
+
+0
+round:  7  -  29.997 s remaining
+
+0
+round:  8  -  29.997 s remaining
+
+0
+round:  9  -  29.997 s remaining
+
+0
+round:  10  -  29.997 s remaining
+
+0
+round:  11  -  29.996 s remaining
+
+0
+round:  12  -  29.996 s remaining
+
+0
+round:  13  -  29.996 s remaining
+
+0
+round:  14  -  29.995 s remaining
+
+0
+round:  15  -  29.995 s remaining
+
+0
+round:  16  -  29.995 s remaining
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+round:  17  -  29.979 s remaining
+
+0
+round:  18  -  29.979 s remaining
+
+0
+round:  19  -  29.978 s remaining
+
+0
+round:  20  -  29.978 s remaining
+
+0
+round:  21  -  29.978 s remaining
+
+0
+round:  22  -  29.978 s remaining
+
+0
+round:  23  -  29.977 s remaining
+
+0
+round:  24  -  29.977 s remaining
+
+0
+round:  25  -  29.976 s remaining
+
+0
+0
+round:  26  -  29.976 s remaining
+
+0
+round:  27  -  29.975 s remaining
+
+0
+round:  28  -  29.975 s remaining
+
+0
+round:  29  -  29.975 s remaining
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+round:  30  -  29.961 s remaining
+
+0
+round:  31  -  29.961 s remaining
+
+0
+round:  32  -  29.961 s remaining
+
+0
+round:  33  -  29.96 s remaining
+
+0
+round:  34  -  29.96 s remaining
+
+0
+round:  35  -  29.96 s remaining
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+round:  36  -  29.947 s remaining
+
+0
+round:  37  -  29.947 s remaining
+
+0
+round:  38  -  29.947 s remaining
+
+0
+round:  39  -  29.947 s remaining
+
+0
+round:  40  -  29.946 s remaining
+
+0
+round:  41  -  29.946 s remaining
+
+0
+round:  42  -  29.946 s remaining
+
+0
+round:  43  -  29.945 s remaining
+
+0
+round:  44  -  29.945 s remaining
+
+0
+round:  45  -  29.945 s remaining
+
+0
+0
+round:  46  -  29.945 s remaining
+
+0
+round:  47  -  29.944 s remaining
+
+0
+0
+round:  48  -  29.944 s remaining
+
+0
+round:  49  -  29.944 s remaining
+
+0
+round:  50  -  29.943 s remaining
+
+0
+round:  51  -  29.943 s remaining
+
+0
+round:  52  -  29.943 s remaining
+
+0
+round:  53  -  29.943 s remaining
+
+0
+round:  54  -  29.943 s remaining
+
+0
+round:  55  -  29.942 s remaining
+
+0
+0
+round:  56  -  29.941 s remaining
+
+0
+round:  57  -  29.941 s remaining
+
+0
+0
+round:  58  -  29.941 s remaining
+
+0
+round:  59  -  29.941 s remaining
+
+0
+round:  60  -  29.94 s remaining
+
+0
+round:  61  -  29.94 s remaining
+
+0
+round:  62  -  29.94 s remaining
+
+0
+round:  63  -  29.939 s remaining
+
+0
+round:  64  -  29.939 s remaining
+
+0
+round:  65  -  29.939 s remaining
+
+0
+round:  66  -  29.939 s remaining
+
+0
+round:  67  -  29.939 s remaining
+
+0
+round:  68  -  29.938 s remaining
+
+0
+round:  69  -  29.938 s remaining
+
+0
+round:  70  -  29.938 s remaining
+
+0
+round:  71  -  29.937 s remaining
+
+0
+round:  72  -  29.937 s remaining
+
+0
+round:  73  -  29.937 s remaining
+
+0
+0
+round:  74  -  29.936 s remaining
+
+0
+round:  75  -  29.936 s remaining
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+round:  76  -  29.922 s remaining
+
+0
+round:  77  -  29.922 s remaining
+
+0
+round:  78  -  29.922 s remaining
+
+0
+round:  79  -  29.922 s remaining
+
+0
+round:  80  -  29.921 s remaining
+
+0
+round:  81  -  29.921 s remaining
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+round:  82  -  29.911 s remaining
+
+0
+round:  83  -  29.91 s remaining
+
+0
+round:  84  -  29.91 s remaining
+
+0
+round:  85  -  29.91 s remaining
+
+0
+round:  86  -  29.91 s remaining
+
+0
+round:  87  -  29.91 s remaining
+
+0
+round:  88  -  29.909 s remaining
+
+0
+round:  89  -  29.909 s remaining
+
+0
+round:  90  -  29.909 s remaining
+
+0
+round:  91  -  29.909 s remaining
+
+0
+round:  92  -  29.909 s remaining
+
+0
+round:  93  -  29.909 s remaining
+
+0
+round:  94  -  29.908 s remaining
+
+0
+round:  95  -  29.908 s remaining
+
+0
+round:  96  -  29.908 s remaining
+
+0
+round:  97  -  29.908 s remaining
+
+0
+round:  98  -  29.907 s remaining
+
+0
+round:  99  -  29.907 s remaining
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+round:  100  -  29.898 s remaining
+
+0
+round:  101  -  29.898 s remaining
+
+0
+0
+round:  102  -  29.897 s remaining
+
+0
+round:  103  -  29.897 s remaining
+
+0
+0
+round:  104  -  29.897 s remaining
+
+0
+round:  105  -  29.897 s remaining
+
+0
+round:  106  -  29.896 s remaining
+
+0
+round:  107  -  29.896 s remaining
+
+0
+round:  108  -  29.896 s remaining
+
+0
+round:  109  -  29.896 s remaining
+
+0
+round:  110  -  29.896 s remaining
+
+0
+round:  111  -  29.895 s remaining
+
+0
+round:  112  -  29.895 s remaining
+
+0
+round:  113  -  29.895 s remaining
+
+0
+round:  114  -  29.895 s remaining
+
+0
+round:  115  -  29.895 s remaining
+
+0
+round:  116  -  29.895 s remaining
+
+0
+round:  117  -  29.894 s remaining
+
+0
+round:  118  -  29.894 s remaining
+
+0
+round:  119  -  29.894 s remaining
+
+0
+0
+round:  120  -  29.894 s remaining
+
+0
+round:  121  -  29.893 s remaining
+
+0
+round:  122  -  29.893 s remaining
+
+0
+round:  123  -  29.892 s remaining
+
+0
+round:  124  -  29.892 s remaining
+
+0
+round:  125  -  29.892 s remaining
+
+0
+round:  126  -  29.892 s remaining
+
+0
+round:  127  -  29.892 s remaining
+
+0
+round:  128  -  29.891 s remaining
+
+0
+round:  129  -  29.891 s remaining
+
+0
+round:  130  -  29.891 s remaining
+
+0
+round:  131  -  29.891 s remaining
+
+0
+round:  132  -  29.89 s remaining
+
+0
+round:  133  -  29.89 s remaining
+
+0
+round:  134  -  29.89 s remaining
+
+0
+round:  135  -  29.89 s remaining
+
+0
+0
+round:  136  -  29.89 s remaining
+
+0
+round:  137  -  29.889 s remaining
+
+0
+round:  138  -  29.889 s remaining
+
+0
+round:  139  -  29.889 s remaining
+
+0
+0
+round:  140  -  29.888 s remaining
+
+0
+round:  141  -  29.888 s remaining
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+round:  142  -  29.874 s remaining
+
+0
+round:  143  -  29.874 s remaining
+
+0
+0
+round:  144  -  29.874 s remaining
+
+0
+round:  145  -  29.874 s remaining
+
+0
+0
+round:  146  -  29.873 s remaining
+
+0
+round:  147  -  29.872 s remaining
+
+0
+round:  148  -  29.872 s remaining
+
+0
+round:  149  -  29.872 s remaining
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+round:  150  -  29.859 s remaining
+
+0
+round:  151  -  29.858 s remaining
+
+0
+round:  152  -  29.858 s remaining
+
+0
+round:  153  -  29.858 s remaining
+
+0
+round:  154  -  29.858 s remaining
+
+0
+round:  155  -  29.857 s remaining
+
+0
+round:  156  -  29.857 s remaining
+
+0
+round:  157  -  29.857 s remaining
+
+0
+round:  158  -  29.857 s remaining
+
+0
+round:  159  -  29.856 s remaining
+
+0
+0
+round:  160  -  29.856 s remaining
+
+0
+round:  161  -  29.856 s remaining
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+round:  162  -  29.843 s remaining
+
+0
+round:  163  -  29.843 s remaining
+
+0
+round:  164  -  29.843 s remaining
+
+0
+round:  165  -  29.843 s remaining
+
+0
+round:  166  -  29.842 s remaining
+
+0
+round:  167  -  29.842 s remaining
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+round:  168  -  29.828 s remaining
+
+0
+round:  169  -  29.828 s remaining
+
+0
+round:  170  -  29.827 s remaining
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+round:  171  -  29.814 s remaining
+
+0
+0
+round:  172  -  29.814 s remaining
+
+0
+round:  173  -  29.813 s remaining
+
+0
+round:  174  -  29.813 s remaining
+
+0
+round:  175  -  29.813 s remaining
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+round:  176  -  29.802 s remaining
+
+0
+round:  177  -  29.802 s remaining
+
+0
+round:  178  -  29.802 s remaining
+
+0
+round:  179  -  29.802 s remaining
+
+0
+round:  180  -  29.802 s remaining
+
+0
+round:  181  -  29.801 s remaining
+
+0
+round:  182  -  29.801 s remaining
+
+0
+round:  183  -  29.801 s remaining
+
+0
+round:  184  -  29.801 s remaining
+
+0
+round:  185  -  29.801 s remaining
+
+0
+0
+round:  186  -  29.8 s remaining
+
+0
+round:  187  -  29.8 s remaining
+
+0
+round:  188  -  29.8 s remaining
+
+0
+round:  189  -  29.8 s remaining
+
+0
+round:  190  -  29.799 s remaining
+
+0
+round:  191  -  29.799 s remaining
+
+0
+round:  192  -  29.799 s remaining
+
+0
+round:  193  -  29.799 s remaining
+
+0
+round:  194  -  29.799 s remaining
+
+0
+round:  195  -  29.798 s remaining
+
+0
+round:  196  -  29.798 s remaining
+
+0
+round:  197  -  29.798 s remaining
+
+0
+round:  198  -  29.798 s remaining
+
+0
+round:  199  -  29.798 s remaining
+
+0
+0
+round:  200  -  29.798 s remaining
+
+0
+round:  201  -  29.797 s remaining
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+round:  202  -  29.786 s remaining
+
+0
+round:  203  -  29.785 s remaining
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+round:  204  -  29.77 s remaining
+
+0
+round:  205  -  29.769 s remaining
+
+0
+round:  206  -  29.769 s remaining
+
+0
+round:  207  -  29.769 s remaining
+
+0
+round:  208  -  29.768 s remaining
+
+0
+round:  209  -  29.768 s remaining
+
+0
+round:  210  -  29.768 s remaining
+
+0
+round:  211  -  29.768 s remaining
+
+0
+round:  212  -  29.767 s remaining
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+round:  213  -  29.75 s remaining
+
+0
+round:  214  -  29.75 s remaining
+
+0
+round:  215  -  29.75 s remaining
+
+0
+round:  216  -  29.749 s remaining
+
+0
+round:  217  -  29.749 s remaining
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+round:  218  -  29.734 s remaining
+
+0
+round:  219  -  29.734 s remaining
+
+0
+0
+round:  220  -  29.734 s remaining
+
+0
+round:  221  -  29.733 s remaining
+
+0
+round:  222  -  29.733 s remaining
+
+0
+round:  223  -  29.733 s remaining
+
+0
+round:  224  -  29.732 s remaining
+
+0
+round:  225  -  29.732 s remaining
+
+0
+round:  226  -  29.732 s remaining
+
+0
+round:  227  -  29.731 s remaining
+
+0
+round:  228  -  29.731 s remaining
+
+0
+round:  229  -  29.731 s remaining
+
+0
+round:  230  -  29.73 s remaining
+
+0
+round:  231  -  29.73 s remaining
+
+0
+round:  232  -  29.73 s remaining
+
+0
+round:  233  -  29.729 s remaining
+
+0
+round:  234  -  29.729 s remaining
+
+0
+round:  235  -  29.729 s remaining
+
+0
+round:  236  -  29.729 s remaining
+
+0
+round:  237  -  29.728 s remaining
+
+0
+round:  238  -  29.728 s remaining
+
+0
+round:  239  -  29.727 s remaining
+
+0
+0
+round:  240  -  29.727 s remaining
+
+0
+round:  241  -  29.727 s remaining
+
+0
+0
+round:  242  -  29.726 s remaining
+
+0
+round:  243  -  29.726 s remaining
+
+0
+round:  244  -  29.726 s remaining
+
+0
+round:  245  -  29.725 s remaining
+
+0
+round:  246  -  29.725 s remaining
+
+0
+round:  247  -  29.725 s remaining
+
+0
+round:  248  -  29.725 s remaining
+
+0
+round:  249  -  29.724 s remaining
+
+0
+0
+round:  250  -  29.724 s remaining
+
+round:  251  -  29.715 s remaining
+
+0
+round:  252  -  29.707 s remaining
+
+0
+round:  253  -  29.699 s remaining
+
+0
+round:  254  -  29.691 s remaining
+
+0
+round:  255  -  29.684 s remaining
+
+0
+round:  256  -  29.676 s remaining
+
+round:  257  -  29.668 s remaining
+
+0
+round:  258  -  29.659 s remaining
+
+round:  259  -  29.65 s remaining
+
+0
+round:  260  -  29.641 s remaining
+
+round:  261  -  29.632 s remaining
+
+0
+round:  262  -  29.624 s remaining
+
+0
+round:  263  -  29.616 s remaining
+
+0
+round:  264  -  29.606 s remaining
+
+round:  265  -  29.595 s remaining
+
+0
+round:  266  -  29.586 s remaining
+
+round:  267  -  29.577 s remaining
+
+0
+round:  268  -  29.569 s remaining
+
+round:  269  -  29.561 s remaining
+
+0
+round:  270  -  29.554 s remaining
+
+round:  271  -  29.547 s remaining
+
+0
+0
+0
+0
+0
+0
+round:  272  -  29.538 s remaining
+
+round:  273  -  29.528 s remaining
+
+0
+round:  274  -  29.52 s remaining
+
+round:  275  -  29.51 s remaining
+
+0
+round:  276  -  29.501 s remaining
+
+round:  277  -  29.492 s remaining
+
+0
+round:  278  -  29.483 s remaining
+
+round:  279  -  29.473 s remaining
+
+0
+round:  280  -  29.462 s remaining
+
+round:  281  -  29.452 s remaining
+
+0
+round:  282  -  29.444 s remaining
+
+round:  283  -  29.436 s remaining
+
+0
+round:  284  -  29.429 s remaining
+
+0
+round:  285  -  29.416 s remaining
+
+0
+round:  286  -  29.401 s remaining
+
+round:  287  -  29.387 s remaining
+
+0
+round:  288  -  29.37 s remaining
+
+round:  289  -  29.356 s remaining
+
+0
+round:  290  -  29.342 s remaining
+
+round:  291  -  29.33 s remaining
+
+0
+round:  292  -  29.317 s remaining
+
+round:  293  -  29.302 s remaining
+
+0
+round:  294  -  29.293 s remaining
+
+round:  295  -  29.284 s remaining
+
+0
+round:  296  -  29.274 s remaining
+
+round:  297  -  29.261 s remaining
+
+0
+round:  298  -  29.245 s remaining
+
+round:  299  -  29.227 s remaining
+
+0
+round:  300  -  29.212 s remaining
+
+round:  301  -  29.196 s remaining
+
+0
+round:  302  -  29.182 s remaining
+
+round:  303  -  29.17 s remaining
+
+0
+round:  304  -  29.157 s remaining
+
+0
+round:  305  -  29.149 s remaining
+
+0
+round:  306  -  29.139 s remaining
+
+round:  307  -  29.128 s remaining
+
+0
+round:  308  -  29.12 s remaining
+
+round:  309  -  29.11 s remaining
+
+0
+round:  310  -  29.099 s remaining
+
+round:  311  -  29.091 s remaining
+
+0
+round:  312  -  29.082 s remaining
+
+round:  313  -  29.073 s remaining
+
+0
+round:  314  -  29.061 s remaining
+
+round:  315  -  29.045 s remaining
+
+0
+round:  316  -  29.033 s remaining
+
+round:  317  -  29.022 s remaining
+
+0
+round:  318  -  29.01 s remaining
+
+round:  319  -  29.0 s remaining
+
+0
+round:  320  -  28.989 s remaining
+
+round:  321  -  28.977 s remaining
+
+0
+round:  322  -  28.966 s remaining
+
+round:  323  -  28.951 s remaining
+
+0
+round:  324  -  28.937 s remaining
+
+round:  325  -  28.92 s remaining
+
+0
+round:  326  -  28.908 s remaining
+
+round:  327  -  28.893 s remaining
+
+0
+round:  328  -  28.88 s remaining
+
+round:  329  -  28.868 s remaining
+
+0
+round:  330  -  28.859 s remaining
+
+round:  331  -  28.848 s remaining
+
+0
+round:  332  -  28.839 s remaining
+
+round:  333  -  28.83 s remaining
+
+0
+round:  334  -  28.819 s remaining
+
+0
+round:  335  -  28.808 s remaining
+
+0
+round:  336  -  28.798 s remaining
+
+round:  337  -  28.787 s remaining
+
+0
+round:  338  -  28.776 s remaining
+
+round:  339  -  28.765 s remaining
+
+0
+round:  340  -  28.753 s remaining
+
+round:  341  -  28.742 s remaining
+
+0
+round:  342  -  28.73 s remaining
+
+0
+round:  343  -  28.722 s remaining
+
+0
+round:  344  -  28.715 s remaining
+
+round:  345  -  28.701 s remaining
+
+0
+round:  346  -  28.69 s remaining
+
+round:  347  -  28.681 s remaining
+
+0
+round:  348  -  28.67 s remaining
+
+round:  349  -  28.661 s remaining
+
+0
+round:  350  -  28.653 s remaining
+
+0
+round:  351  -  28.643 s remaining
+
+0
+round:  352  -  28.634 s remaining
+
+0
+round:  353  -  28.624 s remaining
+
+0
+round:  354  -  28.614 s remaining
+
+round:  355  -  28.606 s remaining
+
+0
+round:  356  -  28.598 s remaining
+
+round:  357  -  28.589 s remaining
+
+0
+round:  358  -  28.578 s remaining
+
+round:  359  -  28.563 s remaining
+
+0
+round:  360  -  28.549 s remaining
+
+round:  361  -  28.538 s remaining
+
+0
+round:  362  -  28.52 s remaining
+
+round:  363  -  28.506 s remaining
+
+0
+round:  364  -  28.486 s remaining
+
+0
+round:  365  -  28.478 s remaining
+
+0
+round:  366  -  28.469 s remaining
+
+round:  367  -  28.461 s remaining
+
+0
+round:  368  -  28.453 s remaining
+
+round:  369  -  28.445 s remaining
+
+0
+round:  370  -  28.435 s remaining
+
+round:  371  -  28.427 s remaining
+
+0
+round:  372  -  28.419 s remaining
+
+round:  373  -  28.412 s remaining
+
+0
+round:  374  -  28.406 s remaining
+
+round:  375  -  28.395 s remaining
+
+0
+round:  376  -  28.384 s remaining
+
+round:  377  -  28.372 s remaining
+
+0
+round:  378  -  28.364 s remaining
+
+round:  379  -  28.355 s remaining
+
+0
+round:  380  -  28.346 s remaining
+
+round:  381  -  28.335 s remaining
+
+0
+round:  382  -  28.325 s remaining
+
+round:  383  -  28.314 s remaining
+
+0
+round:  384  -  28.302 s remaining
+
+0
+round:  385  -  28.291 s remaining
+
+0
+round:  386  -  28.281 s remaining
+
+0
+round:  387  -  28.269 s remaining
+
+0
+round:  388  -  28.258 s remaining
+
+0
+round:  389  -  28.243 s remaining
+
+0
+round:  390  -  28.23 s remaining
+
+round:  391  -  28.218 s remaining
+
+0
+round:  392  -  28.209 s remaining
+
+0
+round:  393  -  28.197 s remaining
+
+0
+round:  394  -  28.184 s remaining
+
+round:  395  -  28.171 s remaining
+
+0
+round:  396  -  28.159 s remaining
+
+round:  397  -  28.15 s remaining
+
+0
+round:  398  -  28.141 s remaining
+
+round:  399  -  28.129 s remaining
+
+0
+round:  400  -  28.117 s remaining
+
+round:  401  -  28.102 s remaining
+
+0
+round:  402  -  28.088 s remaining
+
+round:  403  -  28.077 s remaining
+
+0
+round:  404  -  28.066 s remaining
+
+round:  405  -  28.056 s remaining
+
+0
+round:  406  -  28.045 s remaining
+
+round:  407  -  28.036 s remaining
+
+0
+round:  408  -  28.028 s remaining
+
+round:  409  -  28.021 s remaining
+
+0
+round:  410  -  28.013 s remaining
+
+0
+round:  411  -  28.004 s remaining
+
+0
+round:  412  -  27.991 s remaining
+
+round:  413  -  27.978 s remaining
+
+0
+round:  414  -  27.967 s remaining
+
+round:  415  -  27.956 s remaining
+
+0
+round:  416  -  27.946 s remaining
+
+round:  417  -  27.937 s remaining
+
+0
+round:  418  -  27.928 s remaining
+
+round:  419  -  27.918 s remaining
+
+0
+round:  420  -  27.907 s remaining
+
+round:  421  -  27.899 s remaining
+
+0
+round:  422  -  27.89 s remaining
+
+round:  423  -  27.882 s remaining
+
+0
+round:  424  -  27.875 s remaining
+
+round:  425  -  27.866 s remaining
+
+0
+round:  426  -  27.858 s remaining
+
+0
+round:  427  -  27.85 s remaining
+
+0
+round:  428  -  27.838 s remaining
+
+0
+round:  429  -  27.828 s remaining
+
+0
+round:  430  -  27.821 s remaining
+
+round:  431  -  27.811 s remaining
+
+0
+round:  432  -  27.801 s remaining
+
+round:  433  -  27.792 s remaining
+
+0
+round:  434  -  27.783 s remaining
+
+round:  435  -  27.773 s remaining
+
+0
+round:  436  -  27.764 s remaining
+
+0
+round:  437  -  27.751 s remaining
+
+0
+round:  438  -  27.743 s remaining
+
+round:  439  -  27.733 s remaining
+
+0
+round:  440  -  27.719 s remaining
+
+round:  441  -  27.708 s remaining
+
+0
+round:  442  -  27.699 s remaining
+
+round:  443  -  27.687 s remaining
+
+0
+round:  444  -  27.678 s remaining
+
+round:  445  -  27.669 s remaining
+
+0
+round:  446  -  27.657 s remaining
+
+round:  447  -  27.648 s remaining
+
+0
+round:  448  -  27.637 s remaining
+
+round:  449  -  27.628 s remaining
+
+0
+round:  450  -  27.618 s remaining
+
+round:  451  -  27.608 s remaining
+
+0
+round:  452  -  27.598 s remaining
+
+round:  453  -  27.584 s remaining
+
+0
+round:  454  -  27.574 s remaining
+
+round:  455  -  27.565 s remaining
+
+0
+round:  456  -  27.557 s remaining
+
+round:  457  -  27.547 s remaining
+
+0
+round:  458  -  27.537 s remaining
+
+round:  459  -  27.526 s remaining
+
+0
+round:  460  -  27.516 s remaining
+
+round:  461  -  27.508 s remaining
+
+0
+round:  462  -  27.5 s remaining
+
+round:  463  -  27.491 s remaining
+
+0
+round:  464  -  27.479 s remaining
+
+round:  465  -  27.469 s remaining
+
+0
+round:  466  -  27.458 s remaining
+
+round:  467  -  27.447 s remaining
+
+0
+round:  468  -  27.439 s remaining
+
+round:  469  -  27.432 s remaining
+
+0
+round:  470  -  27.421 s remaining
+
+round:  471  -  27.411 s remaining
+
+0
+round:  472  -  27.402 s remaining
+
+round:  473  -  27.393 s remaining
+
+0
+round:  474  -  27.384 s remaining
+
+0
+round:  475  -  27.377 s remaining
+
+0
+round:  476  -  27.368 s remaining
+
+round:  477  -  27.359 s remaining
+
+0
+round:  478  -  27.348 s remaining
+
+round:  479  -  27.338 s remaining
+
+0
+round:  480  -  27.328 s remaining
+
+round:  481  -  27.321 s remaining
+
+0
+round:  482  -  27.311 s remaining
+
+round:  483  -  27.3 s remaining
+
+0
+round:  484  -  27.292 s remaining
+
+round:  485  -  27.281 s remaining
+
+0
+round:  486  -  27.27 s remaining
+
+round:  487  -  27.263 s remaining
+
+0
+round:  488  -  27.255 s remaining
+
+round:  489  -  27.247 s remaining
+
+0
+round:  490  -  27.234 s remaining
+
+0
+round:  491  -  27.22 s remaining
+
+0
+round:  492  -  27.205 s remaining
+
+round:  493  -  27.191 s remaining
+
+0
+round:  494  -  27.178 s remaining
+
+round:  495  -  27.162 s remaining
+
+0
+round:  496  -  27.147 s remaining
+
+round:  497  -  27.139 s remaining
+
+0
+round:  498  -  27.129 s remaining
+
+round:  499  -  27.117 s remaining
+
+0
+round:  500  -  27.105 s remaining
+
+round:  501  -  27.094 s remaining
+
+0
+round:  502  -  27.08 s remaining
+
+round:  503  -  27.07 s remaining
+
+0
+round:  504  -  27.061 s remaining
+
+round:  505  -  27.049 s remaining
+
+0
+round:  506  -  27.038 s remaining
+
+round:  507  -  27.028 s remaining
+
+0
+round:  508  -  27.018 s remaining
+
+round:  509  -  27.01 s remaining
+
+0
+round:  510  -  27.002 s remaining
+
+round:  511  -  26.994 s remaining
+
+0
+round:  512  -  26.984 s remaining
+
+round:  513  -  26.975 s remaining
+
+0
+round:  514  -  26.965 s remaining
+
+round:  515  -  26.956 s remaining
+
+0
+round:  516  -  26.949 s remaining
+
+round:  517  -  26.939 s remaining
+
+0
+round:  518  -  26.93 s remaining
+
+round:  519  -  26.921 s remaining
+
+0
+round:  520  -  26.911 s remaining
+
+round:  521  -  26.903 s remaining
+
+0
+round:  522  -  26.896 s remaining
+
+round:  523  -  26.887 s remaining
+
+0
+round:  524  -  26.88 s remaining
+
+0
+round:  525  -  26.872 s remaining
+
+0
+round:  526  -  26.864 s remaining
+
+round:  527  -  26.855 s remaining
+
+0
+round:  528  -  26.847 s remaining
+
+round:  529  -  26.838 s remaining
+
+0
+round:  530  -  26.828 s remaining
+
+round:  531  -  26.818 s remaining
+
+0
+round:  532  -  26.806 s remaining
+
+round:  533  -  26.795 s remaining
+
+0
+round:  534  -  26.784 s remaining
+
+round:  535  -  26.776 s remaining
+
+0
+round:  536  -  26.768 s remaining
+
+round:  537  -  26.76 s remaining
+
+0
+round:  538  -  26.752 s remaining
+
+round:  539  -  26.744 s remaining
+
+0
+round:  540  -  26.736 s remaining
+
+round:  541  -  26.728 s remaining
+
+0
+round:  542  -  26.719 s remaining
+
+0
+round:  543  -  26.712 s remaining
+
+0
+round:  544  -  26.701 s remaining
+
+round:  545  -  26.694 s remaining
+
+0
+round:  546  -  26.686 s remaining
+
+round:  547  -  26.677 s remaining
+
+0
+round:  548  -  26.667 s remaining
+
+0
+0
+0
+0
+0
+0
+round:  549  -  26.658 s remaining
+
+0
+round:  550  -  26.65 s remaining
+
+round:  551  -  26.643 s remaining
+
+0
+round:  552  -  26.634 s remaining
+
+round:  553  -  26.626 s remaining
+
+0
+round:  554  -  26.616 s remaining
+
+0
+round:  555  -  26.607 s remaining
+
+0
+round:  556  -  26.598 s remaining
+
+round:  557  -  26.591 s remaining
+
+0
+round:  558  -  26.584 s remaining
+
+round:  559  -  26.574 s remaining
+
+0
+round:  560  -  26.566 s remaining
+
+round:  561  -  26.558 s remaining
+
+0
+round:  562  -  26.549 s remaining
+
+round:  563  -  26.543 s remaining
+
+0
+round:  564  -  26.535 s remaining
+
+round:  565  -  26.528 s remaining
+
+0
+round:  566  -  26.521 s remaining
+
+0
+round:  567  -  26.513 s remaining
+
+0
+round:  568  -  26.504 s remaining
+
+round:  569  -  26.495 s remaining
+
+0
+round:  570  -  26.486 s remaining
+
+round:  571  -  26.478 s remaining
+
+0
+round:  572  -  26.471 s remaining
+
+round:  573  -  26.462 s remaining
+
+0
+round:  574  -  26.453 s remaining
+
+round:  575  -  26.444 s remaining
+
+0
+round:  576  -  26.434 s remaining
+
+round:  577  -  26.426 s remaining
+
+0
+round:  578  -  26.419 s remaining
+
+round:  579  -  26.412 s remaining
+
+0
+round:  580  -  26.403 s remaining
+
+round:  581  -  26.396 s remaining
+
+0
+round:  582  -  26.385 s remaining
+
+round:  583  -  26.376 s remaining
+
+0
+round:  584  -  26.368 s remaining
+
+round:  585  -  26.36 s remaining
+
+0
+round:  586  -  26.353 s remaining
+
+round:  587  -  26.345 s remaining
+
+0
+round:  588  -  26.334 s remaining
+
+0
+round:  589  -  26.325 s remaining
+
+0
+round:  590  -  26.316 s remaining
+
+round:  591  -  26.308 s remaining
+
+0
+round:  592  -  26.3 s remaining
+
+round:  593  -  26.292 s remaining
+
+0
+round:  594  -  26.285 s remaining
+
+round:  595  -  26.277 s remaining
+
+0
+round:  596  -  26.269 s remaining
+
+round:  597  -  26.26 s remaining
+
+0
+round:  598  -  26.251 s remaining
+
+0
+round:  599  -  26.243 s remaining
+
+0
+round:  600  -  26.235 s remaining
+
+round:  601  -  26.228 s remaining
+
+0
+round:  602  -  26.22 s remaining
+
+round:  603  -  26.213 s remaining
+
+0
+round:  604  -  26.203 s remaining
+
+round:  605  -  26.194 s remaining
+
+0
+round:  606  -  26.184 s remaining
+
+round:  607  -  26.176 s remaining
+
+0
+round:  608  -  26.168 s remaining
+
+round:  609  -  26.161 s remaining
+
+0
+round:  610  -  26.151 s remaining
+
+round:  611  -  26.142 s remaining
+
+0
+round:  612  -  26.133 s remaining
+
+round:  613  -  26.124 s remaining
+
+0
+round:  614  -  26.117 s remaining
+
+round:  615  -  26.111 s remaining
+
+0
+round:  616  -  26.103 s remaining
+
+0
+round:  617  -  26.095 s remaining
+
+0
+round:  618  -  26.088 s remaining
+
+round:  619  -  26.08 s remaining
+
+0
+round:  620  -  26.071 s remaining
+
+round:  621  -  26.062 s remaining
+
+0
+round:  622  -  26.053 s remaining
+
+round:  623  -  26.045 s remaining
+
+0
+round:  624  -  26.036 s remaining
+
+round:  625  -  26.027 s remaining
+
+0
+0
+0
+0
+0
+0
+round:  626  -  26.015 s remaining
+
+round:  627  -  26.007 s remaining
+
+0
+round:  628  -  25.997 s remaining
+
+round:  629  -  25.988 s remaining
+
+0
+round:  630  -  25.978 s remaining
+
+round:  631  -  25.965 s remaining
+
+0
+round:  632  -  25.954 s remaining
+
+0
+round:  633  -  25.943 s remaining
+
+0
+round:  634  -  25.935 s remaining
+
+round:  635  -  25.926 s remaining
+
+0
+round:  636  -  25.917 s remaining
+
+round:  637  -  25.907 s remaining
+
+0
+round:  638  -  25.897 s remaining
+
+round:  639  -  25.889 s remaining
+
+0
+round:  640  -  25.878 s remaining
+
+round:  641  -  25.87 s remaining
+
+0
+round:  642  -  25.862 s remaining
+
+round:  643  -  25.853 s remaining
+
+0
+round:  644  -  25.846 s remaining
+
+round:  645  -  25.836 s remaining
+
+0
+round:  646  -  25.827 s remaining
+
+round:  647  -  25.816 s remaining
+
+0
+round:  648  -  25.807 s remaining
+
+round:  649  -  25.798 s remaining
+
+0
+round:  650  -  25.789 s remaining
+
+round:  651  -  25.78 s remaining
+
+0
+round:  652  -  25.769 s remaining
+
+round:  653  -  25.759 s remaining
+
+0
+round:  654  -  25.748 s remaining
+
+round:  655  -  25.74 s remaining
+
+0
+round:  656  -  25.73 s remaining
+
+round:  657  -  25.721 s remaining
+
+0
+round:  658  -  25.712 s remaining
+
+round:  659  -  25.7 s remaining
+
+0
+round:  660  -  25.691 s remaining
+
+round:  661  -  25.683 s remaining
+
+0
+round:  662  -  25.676 s remaining
+
+round:  663  -  25.667 s remaining
+
+0
+round:  664  -  25.657 s remaining
+
+round:  665  -  25.648 s remaining
+
+0
+round:  666  -  25.637 s remaining
+
+round:  667  -  25.622 s remaining
+
+0
+round:  668  -  25.612 s remaining
+
+0
+round:  669  -  25.598 s remaining
+
+0
+round:  670  -  25.584 s remaining
+
+round:  671  -  25.575 s remaining
+
+0
+round:  672  -  25.565 s remaining
+
+round:  673  -  25.555 s remaining
+
+0
+round:  674  -  25.545 s remaining
+
+0
+round:  675  -  25.536 s remaining
+
+0
+round:  676  -  25.527 s remaining
+
+round:  677  -  25.518 s remaining
+
+0
+round:  678  -  25.508 s remaining
+
+round:  679  -  25.501 s remaining
+
+0
+round:  680  -  25.494 s remaining
+
+0
+round:  681  -  25.484 s remaining
+
+0
+round:  682  -  25.475 s remaining
+
+round:  683  -  25.465 s remaining
+
+0
+round:  684  -  25.455 s remaining
+
+round:  685  -  25.446 s remaining
+
+0
+round:  686  -  25.437 s remaining
+
+0
+round:  687  -  25.428 s remaining
+
+0
+round:  688  -  25.418 s remaining
+
+round:  689  -  25.409 s remaining
+
+0
+round:  690  -  25.399 s remaining
+
+round:  691  -  25.391 s remaining
+
+0
+round:  692  -  25.382 s remaining
+
+round:  693  -  25.373 s remaining
+
+0
+round:  694  -  25.364 s remaining
+
+round:  695  -  25.355 s remaining
+
+0
+round:  696  -  25.347 s remaining
+
+round:  697  -  25.339 s remaining
+
+0
+round:  698  -  25.33 s remaining
+
+round:  699  -  25.322 s remaining
+
+0
+round:  700  -  25.315 s remaining
+
+round:  701  -  25.307 s remaining
+
+0
+round:  702  -  25.298 s remaining
+
+round:  703  -  25.289 s remaining
+
+0
+round:  704  -  25.28 s remaining
+
+round:  705  -  25.272 s remaining
+
+0
+round:  706  -  25.264 s remaining
+
+round:  707  -  25.254 s remaining
+
+0
+round:  708  -  25.244 s remaining
+
+round:  709  -  25.235 s remaining
+
+0
+round:  710  -  25.225 s remaining
+
+round:  711  -  25.216 s remaining
+
+0
+round:  712  -  25.208 s remaining
+
+round:  713  -  25.199 s remaining
+
+0
+round:  714  -  25.192 s remaining
+
+round:  715  -  25.182 s remaining
+
+0
+round:  716  -  25.173 s remaining
+
+0
+round:  717  -  25.163 s remaining
+
+0
+round:  718  -  25.155 s remaining
+
+round:  719  -  25.147 s remaining
+
+0
+round:  720  -  25.139 s remaining
+
+round:  721  -  25.129 s remaining
+
+0
+round:  722  -  25.119 s remaining
+
+round:  723  -  25.111 s remaining
+
+0
+round:  724  -  25.102 s remaining
+
+round:  725  -  25.094 s remaining
+
+0
+round:  726  -  25.086 s remaining
+
+round:  727  -  25.079 s remaining
+
+0
+round:  728  -  25.072 s remaining
+
+0
+round:  729  -  25.063 s remaining
+
+0
+round:  730  -  25.054 s remaining
+
+round:  731  -  25.044 s remaining
+
+0
+round:  732  -  25.036 s remaining
+
+0
+round:  733  -  25.027 s remaining
+
+0
+round:  734  -  25.017 s remaining
+
+round:  735  -  25.009 s remaining
+
+0
+round:  736  -  24.999 s remaining
+
+round:  737  -  24.99 s remaining
+
+0
+round:  738  -  24.982 s remaining
+
+round:  739  -  24.975 s remaining
+
+0
+round:  740  -  24.967 s remaining
+
+0
+round:  741  -  24.961 s remaining
+
+0
+round:  742  -  24.955 s remaining
+
+round:  743  -  24.948 s remaining
+
+0
+round:  744  -  24.941 s remaining
+
+round:  745  -  24.933 s remaining
+
+0
+round:  746  -  24.924 s remaining
+
+0
+round:  747  -  24.914 s remaining
+
+0
+round:  748  -  24.906 s remaining
+
+0
+round:  749  -  24.896 s remaining
+
+0
+round:  750  -  24.887 s remaining
+
+round:  751  -  24.877 s remaining
+
+0
+round:  752  -  24.868 s remaining
+
+round:  753  -  24.859 s remaining
+
+0
+round:  754  -  24.85 s remaining
+
+round:  755  -  24.842 s remaining
+
+0
+round:  756  -  24.834 s remaining
+
+round:  757  -  24.825 s remaining
+
+0
+round:  758  -  24.817 s remaining
+
+round:  759  -  24.809 s remaining
+
+0
+round:  760  -  24.8 s remaining
+
+round:  761  -  24.791 s remaining
+
+0
+round:  762  -  24.782 s remaining
+
+round:  763  -  24.771 s remaining
+
+0
+round:  764  -  24.761 s remaining
+
+round:  765  -  24.751 s remaining
+
+0
+round:  766  -  24.74 s remaining
+
+round:  767  -  24.731 s remaining
+
+0
+round:  768  -  24.72 s remaining
+
+round:  769  -  24.711 s remaining
+
+0
+round:  770  -  24.703 s remaining
+
+0
+round:  771  -  24.696 s remaining
+
+0
+round:  772  -  24.688 s remaining
+
+round:  773  -  24.681 s remaining
+
+0
+round:  774  -  24.674 s remaining
+
+round:  775  -  24.665 s remaining
+
+0
+round:  776  -  24.655 s remaining
+
+0
+round:  777  -  24.646 s remaining
+
+0
+round:  778  -  24.637 s remaining
+
+round:  779  -  24.628 s remaining
+
+0
+round:  780  -  24.619 s remaining
+
+round:  781  -  24.61 s remaining
+
+0
+round:  782  -  24.6 s remaining
+
+round:  783  -  24.592 s remaining
+
+0
+round:  784  -  24.584 s remaining
+
+0
+round:  785  -  24.576 s remaining
+
+0
+round:  786  -  24.568 s remaining
+
+0
+round:  787  -  24.563 s remaining
+
+0
+round:  788  -  24.556 s remaining
+
+round:  789  -  24.549 s remaining
+
+0
+round:  790  -  24.54 s remaining
+
+round:  791  -  24.531 s remaining
+
+0
+round:  792  -  24.521 s remaining
+
+round:  793  -  24.512 s remaining
+
+0
+round:  794  -  24.503 s remaining
+
+round:  795  -  24.494 s remaining
+
+0
+round:  796  -  24.485 s remaining
+
+round:  797  -  24.477 s remaining
+
+0
+round:  798  -  24.469 s remaining
+
+round:  799  -  24.462 s remaining
+
+0
+round:  800  -  24.454 s remaining
+
+round:  801  -  24.447 s remaining
+
+0
+round:  802  -  24.441 s remaining
+
+round:  803  -  24.434 s remaining
+
+0
+round:  804  -  24.425 s remaining
+
+round:  805  -  24.415 s remaining
+
+0
+round:  806  -  24.406 s remaining
+
+round:  807  -  24.397 s remaining
+
+0
+round:  808  -  24.387 s remaining
+
+round:  809  -  24.378 s remaining
+
+0
+round:  810  -  24.367 s remaining
+
+round:  811  -  24.359 s remaining
+
+0
+round:  812  -  24.349 s remaining
+
+round:  813  -  24.34 s remaining
+
+0
+round:  814  -  24.332 s remaining
+
+round:  815  -  24.324 s remaining
+
+0
+round:  816  -  24.316 s remaining
+
+0
+round:  817  -  24.306 s remaining
+
+0
+round:  818  -  24.297 s remaining
+
+round:  819  -  24.286 s remaining
+
+0
+round:  820  -  24.277 s remaining
+
+round:  821  -  24.268 s remaining
+
+0
+round:  822  -  24.258 s remaining
+
+round:  823  -  24.25 s remaining
+
+0
+round:  824  -  24.24 s remaining
+
+round:  825  -  24.229 s remaining
+
+0
+round:  826  -  24.22 s remaining
+
+round:  827  -  24.213 s remaining
+
+0
+round:  828  -  24.204 s remaining
+
+round:  829  -  24.197 s remaining
+
+0
+round:  830  -  24.19 s remaining
+
+0
+round:  831  -  24.181 s remaining
+
+0
+round:  832  -  24.172 s remaining
+
+round:  833  -  24.162 s remaining
+
+0
+round:  834  -  24.152 s remaining
+
+round:  835  -  24.143 s remaining
+
+0
+round:  836  -  24.134 s remaining
+
+round:  837  -  24.125 s remaining
+
+0
+round:  838  -  24.115 s remaining
+
+round:  839  -  24.106 s remaining
+
+0
+round:  840  -  24.097 s remaining
+
+round:  841  -  24.088 s remaining
+
+0
+round:  842  -  24.079 s remaining
+
+round:  843  -  24.072 s remaining
+
+0
+round:  844  -  24.065 s remaining
+
+round:  845  -  24.056 s remaining
+
+0
+round:  846  -  24.042 s remaining
+
+round:  847  -  24.031 s remaining
+
+0
+round:  848  -  24.018 s remaining
+
+round:  849  -  24.006 s remaining
+
+0
+round:  850  -  23.995 s remaining
+
+round:  851  -  23.983 s remaining
+
+0
+round:  852  -  23.971 s remaining
+
+round:  853  -  23.961 s remaining
+
+0
+round:  854  -  23.952 s remaining
+
+round:  855  -  23.944 s remaining
+
+0
+round:  856  -  23.937 s remaining
+
+round:  857  -  23.926 s remaining
+
+0
+round:  858  -  23.912 s remaining
+
+round:  859  -  23.902 s remaining
+
+0
+round:  860  -  23.89 s remaining
+
+0
+round:  861  -  23.88 s remaining
+
+0
+0
+0
+0
+0
+0
+round:  862  -  23.87 s remaining
+
+round:  863  -  23.859 s remaining
+
+0
+round:  864  -  23.847 s remaining
+
+round:  865  -  23.839 s remaining
+
+0
+round:  866  -  23.83 s remaining
+
+round:  867  -  23.82 s remaining
+
+0
+round:  868  -  23.81 s remaining
+
+round:  869  -  23.794 s remaining
+
+0
+round:  870  -  23.779 s remaining
+
+round:  871  -  23.767 s remaining
+
+0
+round:  872  -  23.756 s remaining
+
+round:  873  -  23.742 s remaining
+
+0
+round:  874  -  23.73 s remaining
+
+round:  875  -  23.717 s remaining
+
+0
+round:  876  -  23.706 s remaining
+
+round:  877  -  23.697 s remaining
+
+0
+round:  878  -  23.687 s remaining
+
+round:  879  -  23.676 s remaining
+
+0
+round:  880  -  23.664 s remaining
+
+round:  881  -  23.656 s remaining
+
+0
+round:  882  -  23.648 s remaining
+
+round:  883  -  23.64 s remaining
+
+0
+round:  884  -  23.632 s remaining
+
+round:  885  -  23.624 s remaining
+
+0
+round:  886  -  23.615 s remaining
+
+round:  887  -  23.607 s remaining
+
+0
+round:  888  -  23.598 s remaining
+
+0
+round:  889  -  23.588 s remaining
+
+0
+round:  890  -  23.579 s remaining
+
+round:  891  -  23.569 s remaining
+
+0
+round:  892  -  23.559 s remaining
+
+round:  893  -  23.55 s remaining
+
+0
+round:  894  -  23.538 s remaining
+
+round:  895  -  23.53 s remaining
+
+0
+round:  896  -  23.522 s remaining
+
+round:  897  -  23.514 s remaining
+
+0
+round:  898  -  23.506 s remaining
+
+round:  899  -  23.498 s remaining
+
+0
+round:  900  -  23.489 s remaining
+
+round:  901  -  23.481 s remaining
+
+0
+round:  902  -  23.472 s remaining
+
+round:  903  -  23.464 s remaining
+
+0
+round:  904  -  23.455 s remaining
+
+round:  905  -  23.449 s remaining
+
+0
+round:  906  -  23.441 s remaining
+
+round:  907  -  23.431 s remaining
+
+0
+round:  908  -  23.421 s remaining
+
+round:  909  -  23.41 s remaining
+
+0
+round:  910  -  23.402 s remaining
+
+round:  911  -  23.393 s remaining
+
+0
+round:  912  -  23.386 s remaining
+
+round:  913  -  23.379 s remaining
+
+0
+round:  914  -  23.371 s remaining
+
+round:  915  -  23.363 s remaining
+
+0
+round:  916  -  23.353 s remaining
+
+round:  917  -  23.343 s remaining
+
+0
+round:  918  -  23.333 s remaining
+
+0
+round:  919  -  23.324 s remaining
+
+0
+round:  920  -  23.314 s remaining
+
+round:  921  -  23.304 s remaining
+
+0
+round:  922  -  23.295 s remaining
+
+round:  923  -  23.286 s remaining
+
+0
+round:  924  -  23.278 s remaining
+
+round:  925  -  23.271 s remaining
+
+0
+round:  926  -  23.262 s remaining
+
+round:  927  -  23.254 s remaining
+
+0
+round:  928  -  23.245 s remaining
+
+round:  929  -  23.234 s remaining
+
+0
+round:  930  -  23.221 s remaining
+
+round:  931  -  23.206 s remaining
+
+0
+round:  932  -  23.189 s remaining
+
+round:  933  -  23.168 s remaining
+
+0
+round:  934  -  23.152 s remaining
+
+round:  935  -  23.139 s remaining
+
+0
+round:  936  -  23.128 s remaining
+
+round:  937  -  23.117 s remaining
+
+0
+round:  938  -  23.107 s remaining
+
+round:  939  -  23.095 s remaining
+
+0
+round:  940  -  23.085 s remaining
+
+round:  941  -  23.074 s remaining
+
+0
+round:  942  -  23.064 s remaining
+
+round:  943  -  23.054 s remaining
+
+0
+round:  944  -  23.043 s remaining
+
+round:  945  -  23.033 s remaining
+
+0
+round:  946  -  23.024 s remaining
+
+round:  947  -  23.016 s remaining
+
+0
+round:  948  -  23.007 s remaining
+
+round:  949  -  23.0 s remaining
+
+0
+round:  950  -  22.993 s remaining
+
+round:  951  -  22.986 s remaining
+
+0
+round:  952  -  22.978 s remaining
+
+round:  953  -  22.967 s remaining
+
+0
+round:  954  -  22.958 s remaining
+
+round:  955  -  22.948 s remaining
+
+0
+round:  956  -  22.939 s remaining
+
+round:  957  -  22.929 s remaining
+
+0
+round:  958  -  22.919 s remaining
+
+round:  959  -  22.911 s remaining
+
+0
+round:  960  -  22.901 s remaining
+
+round:  961  -  22.894 s remaining
+
+0
+round:  962  -  22.886 s remaining
+
+round:  963  -  22.879 s remaining
+
+0
+round:  964  -  22.871 s remaining
+
+round:  965  -  22.863 s remaining
+
+0
+round:  966  -  22.854 s remaining
+
+round:  967  -  22.845 s remaining
+
+0
+round:  968  -  22.835 s remaining
+
+round:  969  -  22.826 s remaining
+
+0
+round:  970  -  22.816 s remaining
+
+round:  971  -  22.807 s remaining
+
+0
+round:  972  -  22.798 s remaining
+
+round:  973  -  22.789 s remaining
+
+0
+round:  974  -  22.78 s remaining
+
+round:  975  -  22.771 s remaining
+
+0
+round:  976  -  22.764 s remaining
+
+round:  977  -  22.757 s remaining
+
+0
+round:  978  -  22.749 s remaining
+
+round:  979  -  22.742 s remaining
+
+0
+round:  980  -  22.735 s remaining
+
+round:  981  -  22.727 s remaining
+
+0
+round:  982  -  22.717 s remaining
+
+round:  983  -  22.707 s remaining
+
+0
+round:  984  -  22.695 s remaining
+
+round:  985  -  22.683 s remaining
+
+0
+round:  986  -  22.672 s remaining
+
+round:  987  -  22.66 s remaining
+
+0
+round:  988  -  22.648 s remaining
+
+round:  989  -  22.638 s remaining
+
+0
+round:  990  -  22.63 s remaining
+
+round:  991  -  22.621 s remaining
+
+0
+round:  992  -  22.612 s remaining
+
+0
+round:  993  -  22.603 s remaining
+
+0
+round:  994  -  22.593 s remaining
+
+round:  995  -  22.585 s remaining
+
+0
+round:  996  -  22.575 s remaining
+
+round:  997  -  22.564 s remaining
+
+0
+round:  998  -  22.554 s remaining
+
+round:  999  -  22.545 s remaining
+
+0
+round:  1000  -  22.536 s remaining
+
+0

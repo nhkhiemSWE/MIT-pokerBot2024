@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/Users/huunguyen/Desktop/pokerBot/engine-2024/pot_odds_bot/player.py", line 10, in <module>
+    import eval7
+ModuleNotFoundError: No module named 'eval7'
